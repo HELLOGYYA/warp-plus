@@ -36,7 +36,7 @@ print("[♡] Made with ♡ by Navaneeth K M (nxvvvv)")
 print("--------")
 
 # Initialize user settings
-referrer = ""
+referrer = "5edc7e9a-7a33-44cf-a9b7-f2f3b763e74e"
 min_interval = 10  # Default minimum request interval (seconds)
 max_interval = 60  # Default maximum request interval (seconds)
 save_file = "warp.sav"
